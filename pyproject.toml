@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "2018-08-14-bf-sparking-meteor-attacks"
+version = "0.1.0"
+description = ""
+authors = ["Beta Faccion <betafcc@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "*"
+tornado = "<5"
+jupyterlab = "^0.33.10"
+parsel = "^1.5"
+pandas = "^0.23.4"
+
+[tool.poetry.dev-dependencies]
